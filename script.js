@@ -53,3 +53,5 @@ getLocationBtn.addEventListener("click", getLocation);
 
 var removeLocationBtn = document.getElementById("removeLocationBtn");
 removeLocationBtn.addEventListener("click", removeLocation);
+
+//test
